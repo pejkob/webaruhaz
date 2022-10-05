@@ -1,6 +1,6 @@
 Projektmunka #webaruhaz
 
-!!! Hiányzó képek
+!!! Hiányzó képek:
 Post Scriptum
 Stellaris
 Mount&Blade II Bannerlord
