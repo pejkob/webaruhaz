@@ -1,0 +1,13 @@
+#box{
+   background-image: url('back.jpg');
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-position:center;
+   padding: 100px;
+}
+
+body{
+   background-image: url('.jpg');
+   background-repeat: no-repeat;
+   background-size: 100%;
+}

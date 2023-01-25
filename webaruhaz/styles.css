@@ -1,0 +1,10 @@
+.head{
+    background-image: url('back.jpg');
+    background-size: 100%;
+}
+
+h1,p{
+    text-align: center;
+   
+}
+

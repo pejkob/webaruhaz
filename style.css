@@ -1,15 +1,25 @@
-hr{
-    color:black;
-   
-
+h1,p{
+    text-align: center;
 }
 body{
-    background-color: #395B64;
+    background-image: url('newback.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
-header{
-    background-color: #2C3333;
+.card{
+    float: right;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #888888;
 }
-.pdf{
-    border:2px solid #E7F6F2;
-    
+.container{
+    margin-top: 50px;
+}
+
+li{
+    text-align: center;
+   
+}
+.kiskep{
+    max-width: 20px;
+    max-height: 20px;
 }
