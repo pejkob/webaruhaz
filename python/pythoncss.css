@@ -1,0 +1,15 @@
+body{
+    background-color:#3a7ca5;
+    color:yellowgreen;
+}
+h1{
+    color: yellow;
+    margin-left: 25px;
+}
+#heading{
+    color:black;
+    float: left;
+}
+a{
+    color:#3a7ca5;
+}
